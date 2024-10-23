@@ -1,0 +1,56 @@
+[
+    {
+        "recipe_id": 1,
+        "recipeImage": "https://images.unsplash.com/photo-1604908554248-62f2f71d3b9b",
+        "recipeName": "Spaghetti Carbonara",
+        "shortDescription": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "ingredients": ["200 g spaghetti", "100 g pancetta", "50 g Pecorino cheese", "2 large eggs", "Black pepper", "Salt"],
+        "preparingTime": "20 min",
+        "calories": "500 calories"
+    },
+    {
+        "recipe_id": 2,
+        "recipeImage": "https://images.unsplash.com/photo-1525755662778-989d0524087e",
+        "recipeName": "Chicken Teriyaki",
+        "shortDescription": "A savory and sweet chicken dish with a rich teriyaki sauce.",
+        "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom", "2 tbsp sugar", "1 garlic clove"],
+        "preparingTime": "30 min",
+        "calories": "400 calories"
+    },
+    {
+        "recipe_id": 3,
+        "recipeImage": "https://images.unsplash.com/photo-1543353071-087092ec3934",
+        "recipeName": "Greek Salad",
+        "shortDescription": "A refreshing salad with cucumber, tomatoes, olives, and feta cheese.",
+        "ingredients": ["200 g cucumber", "150 g cherry tomatoes", "100 g feta cheese", "50 g olives", "1 red onion", "Olive oil", "Salt", "Pepper"],
+        "preparingTime": "15 min",
+        "calories": "220 calories"
+    },
+    {
+        "recipe_id": 4,
+        "recipeImage": "https://images.unsplash.com/photo-1562967916-eb82221dfb38",
+        "recipeName": "Beef Stroganoff",
+        "shortDescription": "A hearty beef dish with a creamy mushroom sauce.",
+        "ingredients": ["500 g beef sirloin", "300 g mushrooms", "1 onion", "200 ml sour cream", "2 tbsp flour", "Salt", "Pepper"],
+        "preparingTime": "40 min",
+        "calories": "700 calories"
+    },
+    {
+        "recipe_id": 5,
+        "recipeImage": "https://images.unsplash.com/photo-1617196033078-5b6bb5b4e91a",
+        "recipeName": "Avocado Toast",
+        "shortDescription": "A healthy toast topped with mashed avocado, salt, pepper, and lemon juice.",
+        "ingredients": ["2 slices of bread", "1 avocado", "Salt", "Pepper", "Lemon juice"],
+        "preparingTime": "10 min",
+        "calories": "250 calories"
+    },
+    {
+        "recipe_id": 6,
+        "recipeImage": "https://images.unsplash.com/photo-1605471372368-391d78329921",
+        "recipeName": "Chocolate Chip Cookies",
+        "shortDescription": "Classic cookies loaded with chocolate chips, crispy on the edges and chewy in the center.",
+        "ingredients": ["300 g flour", "200 g chocolate chips", "150 g butter", "100 g sugar", "2 eggs", "1 tsp vanilla extract", "1 tsp baking soda", "Salt"],
+        "preparingTime": "25 min",
+        "calories": "480 calories"
+    }
+]
